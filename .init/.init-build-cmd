@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/quick-play-tic-tac-toe-ce75bf93/tic_tac_toe_frontend"
+}
